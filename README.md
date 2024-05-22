@@ -1,1 +1,1 @@
-![PDF](https://github.com/hgudal/ResearchPaper/blob/main/Research_Paper.pdf)
+[PDF](https://github.com/hgudal/ResearchPaper/blob/main/Research_Paper.pdf)
